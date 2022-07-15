@@ -1,0 +1,9 @@
+.text-color-primary {
+  color: #198754;
+  --bs-text-opacity: 1;
+  font-weight: 600;
+}
+
+.icon {
+  colour: #198754;
+}
